@@ -1,7 +1,7 @@
 ### Hi there 👋 I am MuhammadZakha
 - 🌱 I’m currently learning ...Js
 - 👯 I’m looking to collaborate on ... everything
-- 🤔 I’m looking for help with ... to include in 1% talent
+- 🤔 I’m looking for help with ... to include in global developer top 1% talent
 - 💬 Ask me about ... html Css javascript SPSS QuickBooks Excel 
 - 📫 How to reach me: ... muhammadalizakha@yahoo.com
 - ⚡ Fun fact: ...I learned everything for fun
