@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am MuhammadZakha
+- 🌱 I’m currently learning ...Js
+- 👯 I’m looking to collaborate on ... everything
+- 🤔 I’m looking for help with ... to include in 1% talent
+- 💬 Ask me about ... html Css javascript SPSS QuickBooks Excel 
+- 📫 How to reach me: ... muhammadalizakha@yahoo.com
+- ⚡ Fun fact: ...I learned everything for fun
 
 <!--
 **MuhammadZakha/MuhammadZakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
